@@ -25,6 +25,7 @@ To install pyLIM, `cd` into the package directory after downloading or cloning t
 
 This will install pyLIM for the current python environment.
 
+
 ## Examples
 
 When working with with pyLIM, we start with some data which is
